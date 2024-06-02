@@ -1,7 +1,6 @@
 using System;
 
-namespace InchesToCentimetersInteractive
-{
+
     class Program
     {
         // Declare a named constant for the conversion factor
@@ -29,7 +28,7 @@ namespace InchesToCentimetersInteractive
             }
         }
     }
-}
+
 
 
 
